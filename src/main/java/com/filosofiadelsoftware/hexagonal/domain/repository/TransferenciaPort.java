@@ -1,6 +1,6 @@
 package com.filosofiadelsoftware.hexagonal.domain.repository;
 
-import co.edu.unisabana.example.hexagonal.domain.entity.Cuenta;
+
 import com.filosofiadelsoftware.hexagonal.domain.entity.Cuenta;
 import java.util.UUID;
 

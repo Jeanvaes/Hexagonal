@@ -1,7 +1,7 @@
 package com.filosofiadelsoftware.hexagonal.infraestructure;
 
-import co.edu.unisabana.example.hexagonal.application.exception.CuentaNoExisteException;
-import co.edu.unisabana.example.hexagonal.infraestructure.out.dto.ErrorDTO;
+import com.filosofiadelsoftware.hexagonal.application.exception.CuentaNoExisteException;
+import com.filosofiadelsoftware.hexagonal.infraestructure.out.dto.ErrorDTO;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

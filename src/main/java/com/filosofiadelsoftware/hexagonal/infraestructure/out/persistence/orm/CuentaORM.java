@@ -1,7 +1,8 @@
 package com.filosofiadelsoftware.hexagonal.infraestructure.out.persistence.orm;
 
-import co.edu.unisabana.example.hexagonal.domain.entity.Cuenta;
-import co.edu.unisabana.example.hexagonal.domain.enums.TipoCuenta;
+import com.filosofiadelsoftware.hexagonal.domain.entity.Cuenta;
+import com.filosofiadelsoftware.hexagonal.domain.enums.TipoCuenta;
+
 import java.util.Date;
 import javax.persistence.Column;
 import javax.persistence.Entity;
